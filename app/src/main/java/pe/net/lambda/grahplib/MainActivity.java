@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Graph graph = new Graph.Builder().build();
         grafica(graph);
         TextView textView = findViewById(R.id.graph_view_label);
-        textView.setText("Gráfica de Ejes");
+        textView.setText("Gráfica de los Ejes");
     }
 
     public void grafica(Graph graph){
