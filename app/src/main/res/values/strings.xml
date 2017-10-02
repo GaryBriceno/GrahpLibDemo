@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GrahpLibDemo</string>
+
+    <string name="graph_limpiar">Limpiar</string>
+    <string name="graph_cuadrado">Cuadrado</string>
+    <string name="graph_cuadrado_color">Con Color</string>
+    <string name="graph_tres_funciones">3 Funciones</string>
+    <string name="graph_linea_grafica">Lineas</string>
+</resources>
